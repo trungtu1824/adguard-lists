@@ -33,7 +33,7 @@
     {"ip": "172.18.65.123", "phong": "Chị Lan", "nha": "1M", "lau": "Lầu 2", "ten": "Canon 440"},
     {"ip": "172.18.65.129", "phong": "Chị Lan", "nha": "1M", "lau": "Lầu 2", "ten": "Canon 450"},
     {"ip": "172.18.21.13", "phong": "Chị Cúc", "nha": "1M", "lau": "Lầu 3", "ten": "HP 225dn"},
-    {"ip": "172.18.65.124", "phong": "Chị Cúc", "nha": "1M", "lau": "Lầu 3", "ten": "440 dw"},
+    {"ip": "172.18.65.124", "phong": "Chị Cúc", "nha": "1M", "lau": "Lầu 3", "ten": "MF440 Series"},
     {"ip": "172.18.65.122", "phong": "Kim Thuỷ", "nha": "1K", "lau": "Trệt", "ten": "canon 240dw"},
     {"ip": "172.18.65.126", "phong": "A Tùng", "nha": "1K", "lau": "Lầu 1", "ten": "canon 240dw"},
     {"ip": "172.18.12.15", "phong": "Chị Tuệ", "nha": "1K", "lau": "Lầu 1", "ten": "canon 450dw"},
@@ -46,8 +46,9 @@
     {"ip": "172.18.65.133", "phong": "Kami", "nha": "3E", "lau": "Trệt", "ten": "Canon 240dw"},
     {"ip": "172.18.65.135", "phong": "Chị Dương", "nha": "3C", "lau": "Lầu2", "ten": "EPSON L8050"},
     {"ip": "172.18.65.141", "phong": "Lụa", "nha": "3F", "lau": "Trệt", "ten": "canon 450"},
-    {"ip": "172.18.65.142", "phong": "Kế toán lương", "nha": "1F", "lau": "Lầu 1", "ten": "Canon"},
+    {"ip": "172.18.65.142", "phong": "Kế toán lương", "nha": "1F", "lau": "Lầu 1", "ten": "Canon MF450 Serie"},
     {"ip": "172.18.65.143", "phong": "Tuấn", "nha": "1M", "lau": "Lầu 3", "ten": "Canon"},
     {"ip": "172.18.65.144", "phong": "DKTT", "nha": "1F", "lau": "Lầu 3", "ten": "Canon 240 DW"},
-    {"ip": "172.18.65.145", "phong": "KTTM", "nha": "1M", "lau": "Lầu 1", "ten": "Canon 450 DW"}
+    {"ip": "172.18.65.145", "phong": "KTTM", "nha": "1M", "lau": "Lầu 1", "ten": "MF450 Series"}
 ]
+
